@@ -5,8 +5,13 @@
   "repository": "git@github.com:Rhoda-Gachimu/auto-changelog.git",
   "author": "Rhoda Gachimu <gachimurhoda@gmail.com>",
   "license": "MIT",
-
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": ""
+  },
+  "devDependencies": {
+    "standard": "^17.1.0",
+    "standard-version": "^9.0.0",
+    "version": "^0.1.2"
   }
 }
