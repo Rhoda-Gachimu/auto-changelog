@@ -1,0 +1,12 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Rhoda-Gachimu/auto-changelog.git",
+  "author": "Rhoda Gachimu <gachimurhoda@gmail.com>",
+  "license": "MIT",
+
+  "scripts": {
+    "start": "node index.js"
+  }
+}
